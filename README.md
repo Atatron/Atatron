@@ -24,7 +24,7 @@
 - **Pekerjaan Saat ini**: [contoh: Mahasiswa di BINUS]
 - **Sedang mendalami**: [contoh: React.js, Git & GitHub Workflow]
 - **Target**: [contoh: Menjadi Frontend Developer profesional]
-- **Fun fact**: [suka vibe coding]
+- **Fun fact**: [sayang claude]
 
 ---
 
